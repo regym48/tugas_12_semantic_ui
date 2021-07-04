@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/tugas_12_semantic_ui/static/js/main.71edb66d.chunk.js",
+    "main.js.map": "/tugas_12_semantic_ui/static/js/main.71edb66d.chunk.js.map",
+    "runtime-main.js": "/tugas_12_semantic_ui/static/js/runtime-main.3b15a83a.js",
+    "runtime-main.js.map": "/tugas_12_semantic_ui/static/js/runtime-main.3b15a83a.js.map",
+    "static/css/2.d620930a.chunk.css": "/tugas_12_semantic_ui/static/css/2.d620930a.chunk.css",
+    "static/js/2.3c6e8d63.chunk.js": "/tugas_12_semantic_ui/static/js/2.3c6e8d63.chunk.js",
+    "static/js/2.3c6e8d63.chunk.js.map": "/tugas_12_semantic_ui/static/js/2.3c6e8d63.chunk.js.map",
+    "static/js/3.30eb8946.chunk.js": "/tugas_12_semantic_ui/static/js/3.30eb8946.chunk.js",
+    "static/js/3.30eb8946.chunk.js.map": "/tugas_12_semantic_ui/static/js/3.30eb8946.chunk.js.map",
+    "index.html": "/tugas_12_semantic_ui/index.html",
+    "static/css/2.d620930a.chunk.css.map": "/tugas_12_semantic_ui/static/css/2.d620930a.chunk.css.map",
+    "static/js/2.3c6e8d63.chunk.js.LICENSE.txt": "/tugas_12_semantic_ui/static/js/2.3c6e8d63.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/tugas_12_semantic_ui/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b15a83a.js",
+    "static/css/2.d620930a.chunk.css",
+    "static/js/2.3c6e8d63.chunk.js",
+    "static/js/main.71edb66d.chunk.js"
+  ]
+}
